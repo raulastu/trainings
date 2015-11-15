@@ -26,5 +26,6 @@ public class Main {
 	}
 }
 ```
-Atrevete a agregar más variables. Agrega Strings e imprime. 
-Así de fácil sería tu primer training
+Atrevete a agregar más variables. Agrega Strings e imprimelos.
+
+Así de fácil sería tu primer training.
