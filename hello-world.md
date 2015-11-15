@@ -18,7 +18,7 @@ String variable = "hola";
 Este sería todo el programa escrito en Java
 ```java
 public class Main {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
     	int a=10;
       	int b=20;
       	System.out.println(a);
