@@ -19,10 +19,10 @@ Este sería todo el programa escrito en Java
 ```java
 public class Main {
     public static void main(String[] args) throws Exception {
-	    int a=10;
-      int b=20;
-      System.out.println(a);
-      System.out.println(b);
+    	int a=10;
+      	int b=20;
+      	System.out.println(a);
+      	System.out.println(b);
 	}
 }
 ```
