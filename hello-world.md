@@ -12,7 +12,7 @@ int a = 10;
 ```
 Declaración de una variable de tipo cadena de caracteres
 ```java
-String variable = "hola" 
+String variable = "hola";
 ```
 
 Este sería todo el programa escrito en Java
