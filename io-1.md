@@ -31,8 +31,8 @@ public class SumaEasy {
 
         Scanner o = new Scanner(new File("D:/Input.txt"));
         PrintWriter out = new PrintWriter(new File("D:/Output.txt"));
-        long casos = Long.parseLong(o.nextLine());
-        for (long z = 0; z < casos; z++) {
+        int casos = Int.parseInt(o.nextLine());
+        for (int z = 0; z < casos; z++) {
             long a = o.nextInt();
             long b = o.nextInt();
             out.println(a + b);
