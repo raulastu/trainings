@@ -1,5 +1,3 @@
-# Hello world
-
 **Bienvenido al Nuevo Huahcoding Traninig!**. Este es tu primer training. 
 Para avanzar tienes que :
 
