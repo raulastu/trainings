@@ -20,7 +20,7 @@ public class Main {
 
 A este punto ya puedes resolver tu primer problema de huahcoding
 
-[Suma Easy](http://huahcoding.com/contest_arena_pr.php?id=43&pid=85)
+Suma Easy [http://huahcoding.com/contest_arena_pr.php?id=43&pid=85](http://huahcoding.com/contest_arena_pr.php?id=43&pid=85)
 
 Algo así sería la solución
 
