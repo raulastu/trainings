@@ -34,4 +34,4 @@ Atrevete a agregar más variables. Agrega Strings e imprimelos.
 String variable = "hello world";
 ```
 
-Así de fácil sería tu primer training. Ya sabes compilar y ejecutar un programa en Java que tiene variables 
+Así de fácil sería tu primer training. Ya sabes compilar y ejecutar un programa en Java y que ademas tiene variables 
