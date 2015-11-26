@@ -2,11 +2,15 @@
 
 **Bienvenido al Nuevo Huahcoding Traninig!**. Este es tu primer training. 
 Para avanzar tienes que :
-- Leer el material. Open the links and/or Investigate the topics in other sites.
 
-Comenzaremos estudiando los principales tipos de variables. Esta vez en Java. Es muy similar en otros lenguajes de programación como c# o c++.
+- Leer el material. Open the links and/or Investigar los temas en otros sitios.
 
-Declaración de una variable entera
+Comenzaremos estudiando los principales tipos de variables. Esta vez en Java. Es muy similar en otros lenguajes de programación como c# o c++. Para esto ya debes saber compilar y ejecutar un programa en java. Por si no, te dejo este video: https://www.youtube.com/watch?v=7OCMUmfzmeY 
+
+Variables son muy utiles para reutilización de código. Defines una vez y la usas muchas veces.
+
+Ahora veamos como se declará una variable en Java
+
 ```java
 int a = 10;
 ```
@@ -28,4 +32,8 @@ public class Main {
 ```
 Atrevete a agregar más variables. Agrega Strings e imprimelos.
 
-Así de fácil sería tu primer training.
+```java
+String variable = "hello world";
+```
+
+Así de fácil sería tu primer training. Ya sabes compilar y ejecutar un programa en Java que tiene variables 
