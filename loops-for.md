@@ -1,4 +1,3 @@
-### Loops - For
 Loops (Tambien lo escucharas como Estructuras Repetitivas) son muy importante para trabajar smarter and not harder :)
 
 Si me dan la tarea de imprimir 20 veces la palabra "huahcoding". Lo haría así:
