@@ -1,4 +1,3 @@
-### Operaciones Aritmeticas
 Esto es muy sencillo. Comenzaremos por el ejemplo.
 
 ```java
@@ -21,7 +20,7 @@ System.out.println(num);
 ```
 num será 10 y no 10.5
 
-#Eligiendo tus variables
+###Eligiendo tus variables
 Hasta el momento conoces variables de tipo String, int y double para números no enteros.
 Si quisieras calcular el promedio de 3 notas, eligirías probablemente tres double
 ```java
