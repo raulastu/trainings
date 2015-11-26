@@ -11,7 +11,7 @@ public class Main {
 
         PrintWriter out = new PrintWriter(new File("D:/Output.txt"));
         for (long z = 0; z < 100; z++) {
-            System.out.println("huahcoding");
+            out.println("huahcoding");
         }
         out.close();
     }
