@@ -41,3 +41,4 @@ public class SumaEasy {
     }
 }
 ```
+Averigua porque eligimos usar `long` en vez de `int` para las variables.
